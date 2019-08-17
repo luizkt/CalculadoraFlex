@@ -37,10 +37,11 @@ class LoginActivity : AppCompatActivity() {
                 else {
                     Toast.makeText(this@LoginActivity, it.exception?.message, Toast.LENGTH_SHORT).show()
                 }
-                btSignup.setOnClickListener {
-                    startActivityForResult(Intent(this, SignupActivity::class.java), newUserRequestCode)
-                }
             }
+        }
+
+        btSignup.setOnClickListener {
+            startActivityForResult(Intent(this, SignupActivity::class.java), newUserRequestCode)
         }
 
     }
