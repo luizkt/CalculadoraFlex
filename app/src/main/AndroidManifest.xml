@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="br.com.fiap.calculadoraflex">
+          package="br.com.fiap.calculadoraflexlkt">
 
     <application
             android:allowBackup="true"
@@ -9,7 +9,7 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".ui.splash.SplashActivity"
+        <activity android:name="br.com.fiap.calculadoraflexlkt.ui.splash.SplashActivity"
                   android:theme="@style/FullScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -17,15 +17,15 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".ui.signup.SignupActivity">
+        <activity android:name="br.com.fiap.calculadoraflexlkt.ui.signup.SignupActivity">
         </activity>
-        <activity android:name=".ui.result.ResultActivity">
+        <activity android:name="br.com.fiap.calculadoraflexlkt.ui.result.ResultActivity">
         </activity>
-        <activity android:name=".ui.login.LoginActivity">
+        <activity android:name="br.com.fiap.calculadoraflexlkt.ui.login.LoginActivity">
         </activity>
-        <activity android:name=".ui.form.FormActivity">
+        <activity android:name="br.com.fiap.calculadoraflexlkt.ui.form.FormActivity">
         </activity>
-        <activity android:name=".ui.main.MainActivity"
+        <activity android:name="br.com.fiap.calculadoraflexlkt.ui.main.MainActivity"
                   android:label="@string/app_name"
                   android:theme="@style/Theme.AppCompat.NoActionBar">
         </activity>

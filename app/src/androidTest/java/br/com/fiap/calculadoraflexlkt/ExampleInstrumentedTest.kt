@@ -1,4 +1,4 @@
-package br.com.fiap.calculadoraflex
+package br.com.fiap.calculadoraflexlkt
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

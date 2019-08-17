@@ -1,9 +1,9 @@
-package br.com.fiap.calculadoraflex.ui.login
+package br.com.fiap.calculadoraflexlkt.ui.result
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class LoginActivity : AppCompatActivity() {
+class ResultActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

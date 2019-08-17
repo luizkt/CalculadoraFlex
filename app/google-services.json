@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509792754821",
+    "firebase_url": "https://calculadoraflex-55d4f.firebaseio.com",
+    "project_id": "calculadoraflex-55d4f",
+    "storage_bucket": "calculadoraflex-55d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509792754821:android:78eae5bf3d9d7c8d",
+        "android_client_info": {
+          "package_name": "br.com.fiap.calculadoraflexlkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509792754821-qvd26fje84nfdi708oglt43cqjedu5rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fiap.calculadoraflexlkt",
+            "certificate_hash": "80d7aba3af0f29d89e62871ba62e18dd32e7bd9f"
+          }
+        },
+        {
+          "client_id": "509792754821-q7o5r5vfcrn5j3a51iu8i3s9r1e03dks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDROATeBYr9EtdrITVI6aGRWhhQdMQhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509792754821-q7o5r5vfcrn5j3a51iu8i3s9r1e03dks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

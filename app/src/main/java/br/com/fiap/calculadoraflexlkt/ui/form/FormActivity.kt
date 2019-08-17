@@ -1,13 +1,11 @@
-package br.com.fiap.calculadoraflex.ui.main
+package br.com.fiap.calculadoraflexlkt.ui.form
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import br.com.fiap.calculadoraflex.R
 
-class MainActivity : AppCompatActivity() {
+class FormActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
     }
 }
